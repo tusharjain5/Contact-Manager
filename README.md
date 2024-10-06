@@ -38,18 +38,6 @@ The application will be accessible at http://localhost:3000.
 
 You can now add, edit, view, and delete contacts.
 
-### Project Structure
-The folder structure is organized as follows:
-
-Contact-Manager/
-├── public/               # Static files
-├── src/
-│   ├── components/       # React components for various features
-│   ├── App.js            # Main App component
-│   └── index.js          # Entry point
-├── package.json          # Project dependencies and scripts
-└── README.md             # Project documentation
-
 ### Tech Stack
 **Frontend**: React, HTML, CSS, JavaScript, Bootstrap
 **Backend (Data Storage)**: JSON
