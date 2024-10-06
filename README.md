@@ -39,25 +39,31 @@ The application will be accessible at http://localhost:3000.
 You can now add, edit, view, and delete contacts.
 
 ### Tech Stack
-**Frontend**: React, HTML, CSS, JavaScript, Bootstrap
-**Backend (Data Storage)**: JSON
-**IDE**: Visual Studio Code (recommended)
+1.**Frontend**: React, HTML, CSS, JavaScript, Bootstrap
+
+2.**Backend (Data Storage)**: JSON
+
+3.**IDE**: Visual Studio Code (recommended)
 
 ### Contributing
 Contributions are welcome! Please fork the repository and create a new branch for your changes. Once you’ve made the changes, submit a pull request.
 1. Fork the Repository
+
 2. Create a Branch:
 git checkout -b feature/YourFeature
+
 3. Commit Your Changes:
 git commit -m 'Add some feature'
+
 4. Push to the Branch:
 git push origin feature/YourFeature
+
 5. Create a Pull Request
 
-Contact
+### Contact
 
 For any questions or support, feel free to reach out:
 
 **Email: jaint8648@gmail.com**
 
-Thank you for using Contact Manager! We hope it streamlines your contact management needs.
+Thank you for using Contact Manager! 
