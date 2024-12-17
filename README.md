@@ -67,3 +67,7 @@ For any questions or support, feel free to reach out:
 **Email: jaint8648@gmail.com**
 
 Thank you for using Contact Manager! 
+
+## License
+
+This project is licensed under the MIT License.
